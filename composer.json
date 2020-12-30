@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "GuiGralho\\AfdGenerator": "src"
+            "GuiGralho\\AfdGenerator\\": "src"
         }
     }
 }
