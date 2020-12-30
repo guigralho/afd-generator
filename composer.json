@@ -2,7 +2,7 @@
     "name": "guigralho/afd-generator",
     "description": "package to generate AFD file",
     "keywords": ["afd","generate afd"],
-    "homepage": "https://github.com/guigralho/afg-generator",
+    "homepage": "https://github.com/guigralho/afd-generator",
     "authors": [
         {
             "name": "Guilherme Gralho",
