@@ -103,6 +103,10 @@ class AfdGenerator
     public function __construct($params = [])
     {
         Util::fillClass($this, $params);
+
+        $this->setTrailer([
+            'qtdTipo3' => count($params['content'])
+        ]);
     }
 
 	/**
