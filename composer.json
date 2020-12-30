@@ -1,0 +1,20 @@
+{
+    "name": "guigralho/afd-generator",
+    "description": "package to generate AFD file",
+    "keywords": ["afd","generate afd"],
+    "homepage": "https://github.com/guigralho/afg-generator",
+    "authors": [
+        {
+            "name": "Guilherme Gralho",
+            "email": "guilherme_gralho@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "GuiGralho\\AfdGenerator": "src"
+        }
+    }
+}
