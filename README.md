@@ -1,10 +1,15 @@
 # afd-generator
 package to generate AFD file
 
+Install
+```
+composer require guigralho/afd-generator
+```
+
 To generate a file simply add this code:
 
 ```
-$AfdGenerator = new AfdGenerator([
+$AfdGenerator = new GuiGralho\AfdGenerator\AfdGenerator([
   'header' => [
     'docEmpregador' => '00.000.000/0000-00',
     'nomeEmpregador' => 'COMPANY LTDA',
