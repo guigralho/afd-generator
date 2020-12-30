@@ -3,6 +3,7 @@
     "description": "package to generate AFD file",
     "keywords": ["afd","generate afd"],
     "homepage": "https://github.com/guigralho/afd-generator",
+    "license": "MIT",
     "authors": [
         {
             "name": "Guilherme Gralho",
