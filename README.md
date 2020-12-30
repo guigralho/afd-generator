@@ -20,4 +20,10 @@ $AfdGenerator = new AfdGenerator([
     ]
   ]
 ]);
+
+// This returns a string of AFD file
+$AfdGenerator->generate();
+
+// This returns a string of AFD file
+$AfdGenerator->download($filename = null);
 ```
