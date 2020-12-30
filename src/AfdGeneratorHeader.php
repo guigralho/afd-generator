@@ -1,7 +1,7 @@
 <?php
 namespace GuiGralho\AfdGenerator;
 
-use GuiGralho\Util;
+use GuiGralho\AfdGenerator\Util;
 
 /**
  * Class AfdGeneratorHeader

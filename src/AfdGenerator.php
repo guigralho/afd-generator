@@ -1,10 +1,10 @@
 <?php
 namespace GuiGralho\AfdGenerator;
 
-use GuiGralho\Util;
-use GuiGralho\AfdGeneratorHeader;
-use GuiGralho\AfdGeneratorContent;
-use GuiGralho\AfdGeneratorTrailer;
+use GuiGralho\AfdGenerator\Util;
+use GuiGralho\AfdGenerator\AfdGeneratorHeader;
+use GuiGralho\AfdGenerator\AfdGeneratorContent;
+use GuiGralho\AfdGenerator\AfdGeneratorTrailer;
 
 /**
  * Class AfdGenerator
