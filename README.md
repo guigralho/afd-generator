@@ -1,2 +1,2 @@
-# afg-generator
+# afd-generator
 package to generate AFD file
