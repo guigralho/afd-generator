@@ -1,4 +1,11 @@
-# afd-generator
+# afd-generator 
+![badge](https://img.shields.io/packagist/dt/guigralho/afd-generator)
+![badge](https://img.shields.io/github/issues/guigralho/afd-generator)
+![badge](https://img.shields.io/github/forks/guigralho/afd-generator)
+![badge](https://img.shields.io/github/stars/guigralho/afd-generator)
+![badge](https://img.shields.io/github/license/guigralho/afd-generator)
+![badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fguigralho%2Fafd-generator)
+
 package to generate AFD file
 
 Install
