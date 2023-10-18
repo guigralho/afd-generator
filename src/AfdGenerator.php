@@ -73,8 +73,10 @@ class AfdGenerator
 		foreach ($content as $key => $item) {
 			$item['nsr'] = $key+1;
 
-			$AfdGeneratorContent = new AfdGeneratorContent($item);
-			$this->content .= $AfdGeneratorContent->generate() . $this->fimLinha;
+            if ($item['horarioPonto'] != null) {
+                $AfdGeneratorContent = new AfdGeneratorContent($item);
+                $this->content .= $AfdGeneratorContent->generate() . $this->fimLinha;
+            }
 		}
 	}
 
